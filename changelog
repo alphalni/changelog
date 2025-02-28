@@ -1,0 +1,10 @@
+CHANGELOG FOR THE WEBSITE by Ni
+Version 1.00 (Original Release)
+- Information :
+    • Ability to filter events by searching a track (Only 1 search, you cant combine by typing multiple numbers.)
+    • Ability to apply a filter to the event type/region,country/game version and players (Can only apply 1 filter)
+    • URL http://nfshprwr.wuaze.com
+Version 1.01 (Filter update)
+    • You can now apply multiple filters at the same time, except the search bar.
+    • Added a reset filter option.
+    • Enhanced the design of the filters, now fitting the website better.
