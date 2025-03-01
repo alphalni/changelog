@@ -12,4 +12,10 @@ Version 1.01 – Filter Update
     • Added a "Reset Filters" button to easily clear all selected filters.
     • Improved the design and layout of the filters for better integration with the website’s interface.
     • Moved to a new and ssl approved URL : https://nfshprwrs.netlify.app
-    • Added changelog, so people can check the modifications done to the site.
+    • Added changelog, so people can check the modifications done to the site. 
+
+Version 1.02 - Hall of Fame
+- Improvements & Additions:  
+    • Introduced a new Hall of Fame page, displaying a leaderboard that ranks players based on the number of records they hold.  
+    • Tweaked some visual elements for a cleaner look.  
+    • Added a counter to display the number of selected filters.  
